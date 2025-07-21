@@ -8,5 +8,9 @@ section {
 }
 
 .ungu {
-  background-color: #e90dfd;
+  background-color: #6f42c1;
+}
+
+.sentuh {
+  animation: translate3d(0, -.125rem, 0);;
 }
